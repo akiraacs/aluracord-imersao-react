@@ -70,8 +70,8 @@ export default function PaginaInicial() {
             <Box
                 styleSheet={{
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    backgroundColor: appConfig.theme.colors.primary[500],
-                    backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg)',
+                    backgroundColor: appConfig.theme.colors.primary[0],
+                    backgroundImage: 'url(https://image-0.uhdpaper.com/a/pc-4k/samurai-warrior-sunset-fantasy-art-0-4k-wallpaper-3840x2160-uhdpaper.com-487.0_a.jpg)',
                     backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 }}
             >
