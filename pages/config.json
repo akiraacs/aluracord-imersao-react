@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Matrix (peas)",
+    "name": "Aluracord - Itachi",
     "stickers": [
         "http://2.bp.blogspot.com/-d21tffsTIQo/U_H9QjC69gI/AAAAAAAAKqM/wnvOyUr6a_I/s1600/Pikachu%2B2.gif",
         "https://media1.giphy.com/media/BdghqxNFV4efm/200.gif",
@@ -17,14 +17,14 @@
                 "300": "#7BC47F",
                 "400": "#57AE5B",
                 "500": "#3F9142",
-                "600": "#2F8132",
-                "700": "#207227",
+                "600": "#993232",
+                "700": "#BA1F27",
                 "800": "#0E5814",
-                "900": "#05400A"
+                "900": "#272A32"
             },
             "neutrals": {
                 "000": "#FFFFFF",
-                "050": "#F5F7FA",
+                "050": "#81313A",
                 "100": "#E4E7EB",
                 "200": "#CBD2D9",
                 "300": "#9AA5B1",

@@ -38,7 +38,7 @@ function Titulo(props) {
             <Tag>{props.children}</Tag>
             <style jsx>{`
                 ${Tag} {
-                    color: ${appConfig.theme.colors.neutrals['600']};
+                    color: ${appConfig.theme.colors.neutrals['100']};
                     font-size: 24px;
                     font-weight: 600;
                 }
@@ -62,7 +62,7 @@ function Titulo(props) {
 //export default HomePage
 
 export default function PaginaInicial() {
-    const username = 'peas';
+    const username = 'akiraacs';
 
     return (
         <>
@@ -71,7 +71,7 @@ export default function PaginaInicial() {
                 styleSheet={{
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
                     backgroundColor: appConfig.theme.colors.primary[0],
-                    backgroundImage: 'url(https://image-0.uhdpaper.com/a/pc-4k/samurai-warrior-sunset-fantasy-art-0-4k-wallpaper-3840x2160-uhdpaper.com-487.0_a.jpg)',
+                    backgroundImage: 'url(https://a-static.besthdwallpaper.com/itachi-uchiha-papel-de-parede-2160x1440-2372_40.jpg)',
                     backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 }}
             >
@@ -87,7 +87,7 @@ export default function PaginaInicial() {
                         width: '100%', maxWidth: '700px',
                         borderRadius: '5px', padding: '32px', margin: '16px',
                         boxShadow: '0 2px 10px 0 rgb(0 0 0 / 20%)',
-                        backgroundColor: appConfig.theme.colors.neutrals[700],
+                        backgroundColor: appConfig.theme.colors.primary[900],
                     }}
                 >
                     {/* Formulário */}
@@ -98,8 +98,8 @@ export default function PaginaInicial() {
                             width: { xs: '100%', sm: '50%' }, textAlign: 'center', marginBottom: '32px',
                         }}
                     >
-                        <Titulo tag="h">Boas vindas de volta!</Titulo>
-                        <Text variant="body3" styleSheet={{ marginBottom: '32px', color: appConfig.theme.colors.neutrals[300] }}>
+                        <Titulo tag="h1">Que bom ver você por aqui!</Titulo>
+                        <Text variant="body3" styleSheet={{ marginBottom: '32px', color: appConfig.theme.colors.neutrals[100] }}>
                             {appConfig.name}
                         </Text>
 
@@ -107,9 +107,9 @@ export default function PaginaInicial() {
                             fullWidth
                             textFieldColors={{
                                 neutral: {
-                                    textColor: appConfig.theme.colors.neutrals[200],
+                                    textColor: appConfig.theme.colors.neutrals[90],
                                     mainColor: appConfig.theme.colors.neutrals[900],
-                                    mainColorHighlight: appConfig.theme.colors.primary[500],
+                                    mainColorHighlight: appConfig.theme.colors.primary[600],
                                     backgroundColor: appConfig.theme.colors.neutrals[800],
                                 },
                             }}
@@ -119,10 +119,10 @@ export default function PaginaInicial() {
                             label='Entrar'
                             fullWidth
                             buttonColors={{
-                                contrastColor: appConfig.theme.colors.neutrals["000"],
-                                mainColor: appConfig.theme.colors.primary[500],
-                                mainColorLight: appConfig.theme.colors.primary[400],
-                                mainColorStrong: appConfig.theme.colors.primary[600],
+                                contrastColor: appConfig.theme.colors.neutrals[900],
+                                mainColor: appConfig.theme.colors.primary[600],
+                                mainColorLight: appConfig.theme.colors.primary[700],
+                                mainColorStrong: appConfig.theme.colors.primary[700],
                             }}
                         />
                     </Box>
@@ -138,8 +138,8 @@ export default function PaginaInicial() {
                             maxWidth: '200px',
                             padding: '16px',
                             backgroundColor: appConfig.theme.colors.neutrals[800],
-                            border: '1px solid',
-                            borderColor: appConfig.theme.colors.neutrals[999],
+                            border: '6px solid',
+                            borderColor: appConfig.theme.colors.neutrals["050"],
                             borderRadius: '10px',
                             flex: 1,
                             minHeight: '240px',
