@@ -1,0 +1,54 @@
+{
+    "name": "Aluracord - Itachi",
+    "theme": {
+        "colors": {
+            "primary": {
+                "050": "#E3F9E5",
+                "100": "#C1EAC5",
+                "200": "#A3D9A5",
+                "300": "#7BC47F",
+                "400": "#57AE5B",
+                "500": "#3F9142",
+                "600": "#993232",
+                "700": "#BA1F27",
+                "800": "#0E5814",
+                "900": "#272A32"
+            },
+            "neutrals": {
+                "000": "#FFFFFF",
+                "050": "#81313A",
+                "100": "#E4E7EB",
+                "200": "#CBD2D9",
+                "300": "#9AA5B1",
+                "400": "#52667A",
+                "500": "#313D49",
+                "600": "#29333D",
+                "700": "#212931",
+                "800": "#181F25",
+                "900": "#101418",
+                "999": "#080A0C",
+                "opacity": "#101418e9"
+            }
+        }
+    },
+    "stickers": [
+        "https://c.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif",
+        "https://c.tenor.com/iJrG2v5VpIoAAAAM/naruto-sasuke.gif",
+        "https://c.tenor.com/b2dA5GGlHGYAAAAM/uzumaki-naruto-crying.gif",
+        "https://c.tenor.com/THPe8NNBFAAAAAAM/anime-naruto.gif",
+        "https://c.tenor.com/pHUCmrOOt0YAAAAM/naruto-pain.gif",
+        "https://c.tenor.com/_8cIj9LxLIgAAAAM/sasuke-dancing.gif",
+        "https://c.tenor.com/denWpRgM98cAAAAM/twtjjk.gif",
+        "https://c.tenor.com/B8FUd2Vu_EIAAAAM/naruto-rage.gif",
+        "https://c.tenor.com/wgoPpUqBxNwAAAAM/hi-anime.gif",
+        "https://c.tenor.com/RoheKbKqOSYAAAAM/cute-hinata.gif",
+        "https://c.tenor.com/86ZxQxnYFBwAAAAM/naruto-naruto-chunin-exams.gif",
+        "https://c.tenor.com/F9YH52H0MskAAAAM/pain-naruto.gif",
+        "https://c.tenor.com/jO0JOKM6RKsAAAAM/anime-naruto.gif",
+        "https://c.tenor.com/igyEm4NzIH8AAAAM/naruto-opening.gif",
+        "https://c.tenor.com/t_0I-kymDAoAAAAM/sasuke-losing.gif",
+        "https://c.tenor.com/92qElFsyKx8AAAAM/anime-naruto.gif",
+        "https://c.tenor.com/aHW4KlbeiVkAAAAM/scooby-shaggy.gif",
+        "https://c.tenor.com/MgEOuwqTR7gAAAAM/itchai-naruto.gif"
+    ]
+}
